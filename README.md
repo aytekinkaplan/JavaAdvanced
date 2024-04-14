@@ -21,7 +21,7 @@ Advanced Java programming involves diving deeper into the language's features an
 
 ## Project Structure
 
-Absolutely, I can create a schematic based on the provided project structure:
+A schematic based on the provided project structure:
 
 ```
 AdvancedJavaExamples/
