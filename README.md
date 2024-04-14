@@ -23,32 +23,103 @@ Advanced Java programming involves diving deeper into the language's features an
 
 AdvancedJavaExamples/
 │
-├── multithreading/ # Examples demonstrating multithreading concepts
-│ ├── ThreadExample.java
-│ ├── ThreadPoolExample.java
-│ └── ...
+├── multithreading/                        # Examples demonstrating multithreading concepts
+│   ├── ThreadExample.java
+│   ├── ThreadPoolExample.java
+│   ├── SynchronizationExample.java
+│   ├── ConcurrentCollectionsExample.java
+│   ├── ExecutorServiceExample.java
+│   └── ...
 │
-├── generics/ # Examples demonstrating Java generics
-│ ├── GenericClassExample.java
-│ ├── GenericMethodExample.java
-│ └── ...
+├── generics/                              # Examples demonstrating Java generics
+│   ├── GenericClassExample.java
+│   ├── GenericMethodExample.java
+│   ├── BoundedTypeExample.java
+│   ├── WildcardExample.java
+│   ├── GenericInterfaceExample.java
+│   └── ...
 │
-├── lambda/ # Examples demonstrating lambda expressions
-│ ├── LambdaBasicExample.java
-│ ├── LambdaFunctionalInterfaceExample.java
-│ └── ...
+├── lambda/                                # Examples demonstrating lambda expressions
+│   ├── LambdaBasicExample.java
+│   ├── LambdaFunctionalInterfaceExample.java
+│   ├── MethodReferenceExample.java
+│   ├── StreamFilterExample.java
+│   ├── StreamMapExample.java
+│   └── ...
 │
-├── streams/ # Examples demonstrating Java streams
-│ ├── StreamCreationExample.java
-│ ├── StreamOperationsExample.java
-│ └── ...
+├── streams/                               # Examples demonstrating Java streams
+│   ├── StreamCreationExample.java
+│   ├── StreamOperationsExample.java
+│   ├── ParallelStreamsExample.java
+│   ├── StreamCollectorsExample.java
+│   ├── StreamReduceExample.java
+│   └── ...
 │
-├── designpatterns/ # Examples demonstrating design patterns
-│ ├── SingletonPatternExample.java
-│ ├── FactoryPatternExample.java
-│ └── ...
+├── designpatterns/                        # Examples demonstrating design patterns
+│   ├── SingletonPatternExample.java
+│   ├── FactoryPatternExample.java
+│   ├── ObserverPatternExample.java
+│   ├── StrategyPatternExample.java
+│   ├── TemplateMethodPatternExample.java
+│   └── ...
 │
-└── README.md # README file explaining the contents of the repository
+├── concurrency/                           # Examples demonstrating Java concurrency utilities
+│   ├── CountDownLatchExample.java
+│   ├── CyclicBarrierExample.java
+│   ├── SemaphoreExample.java
+│   ├── CompletableFutureExample.java
+│   ├── PhaserExample.java
+│   └── ...
+│
+├── io/                                    # Examples demonstrating Java IO operations
+│   ├── FileReadExample.java
+│   ├── FileWriteExample.java
+│   ├── InputStreamExample.java
+│   ├── OutputStreamExample.java
+│   ├── SerializationExample.java
+│   └── ...
+│
+├── networking/                            # Examples demonstrating Java networking
+│   ├── SocketExample.java
+│   ├── ServerSocketExample.java
+│   ├── URLConnectionExample.java
+│   ├── DatagramSocketExample.java
+│   ├── HttpClientExample.java
+│   └── ...
+│
+├── databases/                             # Examples demonstrating Java database connectivity
+│   ├── JDBCExample.java
+│   ├── HibernateExample.java
+│   ├── JPAExample.java
+│   ├── MongoDBExample.java
+│   ├── Neo4jExample.java
+│   └── ...
+│
+├── security/                              # Examples demonstrating Java security features
+│   ├── EncryptionExample.java
+│   ├── AuthenticationExample.java
+│   ├── AuthorizationExample.java
+│   ├── SSLTLSExample.java
+│   ├── DigitalSignatureExample.java
+│   └── ...
+│
+├── gui/                                   # Examples demonstrating Java GUI development
+│   ├── SwingExample.java
+│   ├── JavaFXExample.java
+│   ├── AWTExample.java
+│   ├── JavaFXFXMLExample.java
+│   └── ...
+│
+├── web/                                   # Examples demonstrating Java web development
+│   ├── ServletExample.java
+│   ├── JSPExample.java
+│   ├── SpringMVCExample.java
+│   ├── SpringBootExample.java
+│   ├── RESTfulAPIExample.java
+│   └── ...
+│
+└── README.md                              # README file explaining the contents of the repository
+
 
 
 ## Examples
