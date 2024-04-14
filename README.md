@@ -1,6 +1,6 @@
 # Advanced Java Examples
 
-Welcome to the Advanced Java Examples repository! This repository contains various examples and projects demonstrating advanced concepts and techniques in Java programming language.
+This repository contains various examples and projects demonstrating advanced concepts and techniques in Java programming language.
 
 ## Table of Contents
 
