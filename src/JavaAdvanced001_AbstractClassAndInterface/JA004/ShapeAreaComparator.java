@@ -1,7 +1,11 @@
 package JavaAdvanced001_AbstractClassAndInterface.JA004;
 
+// This class provides a utility method to compare areas of different shapes.
+// It contains a static method compareAreas() that takes four area values as parameters and prints the smallest one.
+
 public class ShapeAreaComparator {
 
+    // Static method to compare areas of different shapes and print the smallest one.
     public static void compareAreas(double area1, double area2, double area3, double area4) {
         if (area1 < area2 && area1 < area3 && area1 < area4) {
             System.out.println("The smallest area is " + area1);
