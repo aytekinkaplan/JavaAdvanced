@@ -1,4 +1,4 @@
-package JavaAdvanced002_Java8Features.JA003;
+package JavaAdvanced002_Java8Features.JA004;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -50,6 +50,14 @@ class User {
         System.out.println("I am " + this.name + " and I am " + this.age + " years old");
     }
 
+    public void retirementTest() {
+
+    }
+
+    public void retirementTalk() {
+
+    }
+
 }
 
 public class ANewFeature {
@@ -66,13 +74,6 @@ public class ANewFeature {
         users.add(new User(800, "Kate", 70));
         users.add(new User(900, "Lisa", 80));
         users.add(new User(1000, "John", 90));
-
-        List<User> filteredUsers = users.stream().filter(u->u.getAge()>50).toList();
-        System.out.println(filteredUsers);
-
-        filteredUsers.forEach(User::talk);
-
-
 
 
     }
