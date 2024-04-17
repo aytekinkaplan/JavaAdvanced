@@ -1,8 +1,7 @@
-package JavaAdvanced003_Java8Features.JA001;
+package JavaAdvanced002_Java8Features.JA003;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 class User {
     private int id;
